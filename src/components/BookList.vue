@@ -19,7 +19,6 @@
 </template>
 
 <script>
-// work
 import _ from "lodash"
 import BookItem from "./BookItem";
 import BookForm from "./BookForm";
